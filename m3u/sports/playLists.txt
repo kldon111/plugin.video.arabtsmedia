@@ -1,7 +1,9 @@
 [
 {"url": "https://raw.githubusercontent.com/kldon111/plugin.video.arabtsmedia/master/m3u/sports/BeIN%20SPORTS.m3u", "name": "BeIN SPORTS"},
-{"url": "https://raw.githubusercontent.com/kldon111/plugin.video.arabtsmedia/master/m3u/sports/A-Z%20Nilesat.m3u", "name": "AZ Nilesat"},
-{"url": "https://raw.githubusercontent.com/kldon111/plugin.video.arabtsmedia/master/m3u/sports/Arab.m3u", "name": "Arab"},
-{"url": "https://raw.githubusercontent.com/kldon111/plugin.video.arabtsmedia/master/m3u/sports/European.m3u", "name": "European"},
+{"url": "https://raw.githubusercontent.com/kldon111/plugin.video.arabtsmedia/master/m3u/sports/Sky%20Sports.m3u", "name": "Sky Sports"},
+{"url": "https://raw.githubusercontent.com/kldon111/plugin.video.arabtsmedia/master/m3u/sports/AD%20Sport.m3u", "name": "AD Sport"},
+{"url": "https://raw.githubusercontent.com/kldon111/plugin.video.arabtsmedia/master/m3u/sports/MBC.m3u", "name": "MBC"},
+{"url": "https://raw.githubusercontent.com/kldon111/plugin.video.arabtsmedia/master/m3u/sports/Nile.m3u", "name": "Nile"},
+{"url": "https://raw.githubusercontent.com/kldon111/plugin.video.arabtsmedia/master/m3u/sports/maroco.m3u", "name": "maroco"},
 {"url": "https://raw.githubusercontent.com/kldon111/plugin.video.arabtsmedia/master/m3u/sports/mix.m3u", "name": "mix"}
 ]
