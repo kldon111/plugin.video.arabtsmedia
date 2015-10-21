@@ -1,13 +1,3 @@
-[
-{"url": "https://raw.githubusercontent.com/kldon111/plugin.video.arabtsmedia/master/m3u/sports/BeIN%20SPORTS.m3u", "name": "BeIN SPORTS"},
-{"url": "https://raw.githubusercontent.com/kldon111/plugin.video.arabtsmedia/master/m3u/sports/A-Z%20Nilesat.m3u", "name": "A Z Nilesat"},
-{"url": "https://raw.githubusercontent.com/kldon111/plugin.video.arabtsmedia/master/m3u/sports/Arab.m3u", "name": "Arab"},
-{"url": "https://raw.githubusercontent.com/kldon111/plugin.video.arabtsmedia/master/m3u/sports/European.m3u", "name": "European"},
-{"url": "https://raw.githubusercontent.com/kldon111/plugin.video.arabtsmedia/master/m3u/sports/Clubs.m3u", "name": "Clubs"},
-{"url": "https://raw.githubusercontent.com/kldon111/plugin.video.arabtsmedia/master/m3u/sports/Sportime.m3u", "name": "Sportime"},
-{"url": "https://raw.githubusercontent.com/kldon111/plugin.video.arabtsmedia/master/m3u/sports/Stadium%20TV.m3u", "name": "Stadium TV"},
-{"url": "https://raw.githubusercontent.com/kldon111/plugin.video.arabtsmedia/master/m3u/sports/ESPN%20Sports.m3u": "ESPN Sports"},
-{"url": "https://raw.githubusercontent.com/kldon111/plugin.video.arabtsmedia/master/m3u/sports/Fox.m3u", "name": "Fox"},
 {"url": "https://raw.githubusercontent.com/kldon111/plugin.video.arabtsmedia/master/m3u/sports/Arena%20Sport.m3u", "name": "Arena Sport"},
 {"url": "https://raw.githubusercontent.com/kldon111/plugin.video.arabtsmedia/master/m3u/sports/Sport%20Klub.m3u", "name": "Sport Klub"},
 {"url": "https://raw.githubusercontent.com/kldon111/plugin.video.arabtsmedia/master/m3u/sports/BT%20Sports.m3u", "name": "BT Sports"},
