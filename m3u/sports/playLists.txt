@@ -1,3 +1,4 @@
+[
 {"url": "https://raw.githubusercontent.com/kldon111/plugin.video.arabtsmedia/master/m3u/sports/Arena%20Sport.m3u", "name": "Arena Sport"},
 {"url": "https://raw.githubusercontent.com/kldon111/plugin.video.arabtsmedia/master/m3u/sports/Sport%20Klub.m3u", "name": "Sport Klub"},
 {"url": "https://raw.githubusercontent.com/kldon111/plugin.video.arabtsmedia/master/m3u/sports/BT%20Sports.m3u", "name": "BT Sports"},
