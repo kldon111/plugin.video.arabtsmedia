@@ -15,6 +15,6 @@
 {"url": "https://raw.githubusercontent.com/kldon111/plugin.video.arabtsmedia/master/m3u/sports/AD%20Sport.m3u", "name": "AD Sport"},
 {"url": "https://raw.githubusercontent.com/kldon111/plugin.video.arabtsmedia/master/m3u/sports/MBC.m3u", "name": "MBC"},
 {"url": "https://raw.githubusercontent.com/kldon111/plugin.video.arabtsmedia/master/m3u/sports/Nile.m3u", "name": "Nile"},
-{"url": "https://raw.githubusercontent.com/kldon111/plugin.video.arabtsmedia/master/m3u/sports/maroco.m3u", "name": "maroco",
+{"url": "https://raw.githubusercontent.com/kldon111/plugin.video.arabtsmedia/master/m3u/sports/maroco.m3u", "name": "maroco"},
 {"url": "https://raw.githubusercontent.com/kldon111/plugin.video.arabtsmedia/master/m3u/sports/mix.m3u", "name": "mix"}
 ]
