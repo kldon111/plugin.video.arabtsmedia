@@ -1,0 +1,41 @@
+#EXTM3U
+#EXTINF:-1, [COLOR green] --Updated 21/10/15 @ 12:50am made by:mfaraj,kldon--[/COLOR]   
+https://www.youtube.com/watch?v=P6CobLkKuEU
+#EXTINF:-1,Arriadia HD
+http://arriadia-tv.scdn.arkena.com/arriadia.isml/manifest.f4m
+#EXTINF:-1,Arriadia HD Full
+http://arriadia-tv.scdn.arkena.com/arriadia.isml/index.m3u8
+#EXTINF:-1,Dubai Sport 3 HD
+http://dmi.mangomolo.com:1935/dubaisports/smil:dubaisports.smil/omaroc.m3u8
+#EXTINF:-1,Dubai Racing HD
+http://dmi.mangomolo.com:1935/dubairacing/smil:dubairacing.smil/omaroc.m3u8
+#EXTINF:-1,Sharjah Sport HD
+http://livestreaming.itworkscdn.net/smc4sportslive/smc4tv/smil.m3u8
+#EXTINF:-1,KTV Sport HD
+http://212.7.205.5:1935/sport/live/HasBahCa.m3u8
+#EXTINF:-1,Jordanie Sport HD
+rtmp://stream2.joinvisions.net/jorlive/s1
+#EXTINF:-1,Sport KSA 1 HD
+http://38.99.146.36:7777/AlRiyadiah_HD.m3u8
+#EXTINF:-1,Oman Sport HD
+http://38.96.148.30:1935/live/omantv2/chunklist.m3u8?wowzasessionid=35896230
+#EXTINF:-1,alkass 1 HD
+http://alkass-i.akamaihd.net/hls/live/205534/1/live_13s.m3u8
+#EXTINF:-1,alkass 2 HD
+http://alkass-i.akamaihd.net/hls/live/205534/2/live_14s.m3u8
+#EXTINF:-1,alkass 3 HD
+http://alkass-i.akamaihd.net/hls/live/205534/3/live_12s.m3u8
+#EXTINF:-1,alkass 4 HD
+http://alkass-i.akamaihd.net/hls/live/205534/4/live_13s.m3u8
+#EXTINF:-1,Nile Sport HD
+http://38.99.146.36:7777/NileSport_HD.m3u8
+#EXTINF:-1,Al Ahly
+http://38.99.146.36:7777/AlAhlyTV_HD.m3u8
+#EXTINF:-1,Al Nahar Sport
+http://38.99.146.36:7777/AlNaharSport_HD.m3u8
+#EXTINF:-1,Pro Sports 1HD
+http://intigral_live-lh.akamaihd.net/i/DPS3SPLITDXRAD150315_1@129126/index_512_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,Pro Sports 2HD
+http://intigral_live-lh.akamaihd.net/i/DPS3SPLFTHXTWN070315_1@129126/index_1200_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,Pro Sports 3HD
+http://intigral_live-lh.akamaihd.net/i/DPS3SPLSHOXTWN220315_1@301567/index_1200_av-b.m3u8
