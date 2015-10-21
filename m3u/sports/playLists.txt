@@ -1,6 +1,5 @@
 [
 {"url": "https://raw.githubusercontent.com/kldon111/plugin.video.arabtsmedia/master/m3u/sports/BeIN%20SPORTS.m3u", "name": "BeIN SPORTS"},
-{"url": "https://raw.githubusercontent.com/kldon111/plugin.video.arabtsmedia/master/m3u/sports/A-Z%20Nilesat.m3u", "name": "A Z Nilesat"},
 {"url": "https://raw.githubusercontent.com/kldon111/plugin.video.arabtsmedia/master/m3u/sports/Arab.m3u", "name": "Arab"},
 {"url": "https://raw.githubusercontent.com/kldon111/plugin.video.arabtsmedia/master/m3u/sports/mix.m3u", "name": "mix"}
 ]
