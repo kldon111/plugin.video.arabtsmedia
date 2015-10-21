@@ -1,25 +1,23 @@
 #EXTM3U
 
-#EXTINF:-1, [COLOR green] --Updated 10/07/15 @ 12:50am made by:mfaraj,kldon--[/COLOR]   
+#EXTINF:-1, [COLOR green] --Updated 21/10/15 @ 12:50am made by:mfaraj,kldon--[/COLOR]   
 https://www.youtube.com/watch?v=P6CobLkKuEU
-#EXTINF:-1, [COLOR green] --Updated from www.dreamoem.com$www.tunisia-sat.com--[/COLOR]  
-https://www.youtube.com/channel/UCE8HvYEF1LB61_nG2g_6xKQ
-#EXTINF:-1,Bein Sports USA
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/95.ts
-#EXTINF:-1,Bein Sports 1 FR
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/31.ts
+#EXTINF:-1,Bein Sports HD1 FR
+http://178.33.88.129:888/udp/239.102.0.20:1234
+#EXTINF:-1,Bein Sports HD2 FR
+http://178.33.88.129:888/udp/239.102.0.21:1234
 #EXTINF:-1,Bein Sports 2 FR
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/36.ts
-#EXTINF:-1,Bein Sports 3 FR
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/32.ts
-#EXTINF:-1,Bein Max 4
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/93.ts
-#EXTINF:-1,Bein Max 5
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/94.ts
-#EXTINF:-1,Bein Sports 1 HD
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/16.ts
-#EXTINF:-1,Bein Sports 2 HD
-http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/17.ts
+http://02e4.vp9.tv/chn/bein14hd/v.m3u8
+#EXTINF:-1,Bein Sports HD3 FR
+http://178.33.88.129:888/udp/239.102.0.22:1234
+#EXTINF:-1,Bein Sports 4 AR
+http://vstreamgz.hadara.ps:1935/alfajertvhd/smil:alfajertvhdSmil.smil/playlist.m3u8
+#EXTINF:-1,Bein Sports 5 ENG
+rtmpe://varu2.hdstream.info:1935/live/channel13
+#EXTINF:-1,Bein Sports 9 HD
+http://02e4.vp9.tv/chn/bein09hd/v.m3u8
+#EXTINF:-1,Bein Sports 10 HD
+http://02e4.vp9.tv/chn/bein10hd/v.m3u8
 #EXTINF:-1,Bein Sports 3 HD
 http://iptv.wssiptv.com:80/live/wssiptvdotcom/Uysi8iOity965sSwqes/18.ts
 #EXTINF:-1,Bein Sports 4 HD
