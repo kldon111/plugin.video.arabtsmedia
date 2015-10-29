@@ -1,6 +1,22 @@
 #EXTM3U
 #EXTINF:-1,Updated 21/10/15-12:50am by:mfaraj,kldon   
 https://www.youtube.com/watch?v=P6CobLkKuEU
+#EXTINF:-1,bein Sports
+http://tedilive-aka-pub.telecable.es:80/akamai/04/03.m3u8
+#EXTINF:-1,bein Sports 1
+http://tedilive-aka-pub.telecable.es:80/akamai/05/03.m3u8
+#EXTINF:-1,bein Sports 2
+http://tedilive-aka-pub.telecable.es:80/akamai/06/03.m3u8
+#EXTINF:-1,bein Sports 3
+http://tedilive-aka-pub.telecable.es:80/akamai/07/05.m3u8
+#EXTINF:-1,bein Sports 4
+http://tedilive-aka-pub.telecable.es:80/akamai/08/03.m3u8
+#EXTINF:-1,bein Sports 5
+http://tedilive-aka-pub.telecable.es:80/akamai/09/03.m3u8
+#EXTINF:-1,bein Sports 6
+http://tedilive-aka-pub.telecable.es:80/akamai/10/03.m3u8
+#EXTINF:-1,bein Sports 7
+http://tedilive-aka-pub.telecable.es:80/akamai/11/03.m3u8
 #EXTINF:-1,Bein Sports HD1 FR
 http://178.33.88.129:888/udp/239.102.0.20:1234
 #EXTINF:-1,Bein Sports HD2 FR
